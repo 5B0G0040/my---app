@@ -8,6 +8,8 @@ function App() {
       <MySlider />
       <h1>MyRGBPanel</h1>
       <MyRGBPanel />
+      <h1>MyCalculator</h1>
+      <MyCalculator />
       </div>
   );
 }
